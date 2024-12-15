@@ -1,0 +1,13 @@
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.requireConfig": false,
+    "prettier.singleQuote": true,
+    "prettier.semi": false,
+    "prettier.htmlWhitespaceSensitivity": "ignore",
+    "html.format.enable": true,
+    "html.format.wrapAttributes": "force-aligned",
+    "html.format.indentInnerHtml": true,
+    "css.format.enable": true,
+    "javascript.format.enable": true,
+}
